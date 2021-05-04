@@ -1,0 +1,30 @@
+# Tue, 02 Dec 14 03:16:58 +0000 by 182.253.240.210 using Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Safari/537.36
+app.title=Live Chat Messenger
+# Tue, 02 Dec 14 03:17:24 +0000 by 182.253.240.210 using Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Safari/537.36
+app.descr=Live Chat Messenger for Intiwhiz International
+# Tue, 02 Dec 14 03:39:59 +0000 by 182.253.240.210 using Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Safari/537.36
+chat.window.poweredreftext=Intiwhiz International
+# Tue, 02 Dec 14 03:40:33 +0000 by 182.253.240.210 using Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Safari/537.36
+chat.window.product_name=Live Chat <span class="grey">Messenger</span> Intiwhiz International
+# Tue, 02 Dec 14 03:40:59 +0000 by 182.253.240.210 using Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Safari/537.36
+chat.window.title.agent=Live Chat Messenger Intiwhiz International
+# Tue, 02 Dec 14 03:41:06 +0000 by 182.253.240.210 using Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Safari/537.36
+chat.window.title.user=Live Chat Messenger Intiwhiz International
+# Tue, 02 Dec 14 03:41:45 +0000 by 182.253.240.210 using Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Safari/537.36
+company.title=PT Intiwhiz International
+# Tue, 02 Dec 14 03:43:06 +0000 by 182.253.240.210 using Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Safari/537.36
+mail.user.history.body=Hello {0}!\n\nYour chat history: \n\n{1}\n--- \nRegards,\nLive Chat Messenger Intiwhiz International
+# Tue, 02 Dec 14 03:43:22 +0000 by 182.253.240.210 using Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Safari/537.36
+mail.user.history.subject=Live Chat: dialog history
+# Tue, 02 Dec 14 04:05:17 +0000 by 182.253.240.210 using Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Safari/537.36
+site.title=Live Chat
+# Tue, 02 Dec 14 04:05:33 +0000 by 182.253.240.210 using Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Safari/537.36
+site.url=http://www.intiwhiz.com
+# Tue, 02 Dec 14 04:19:10 +0000 by 182.253.240.210 using Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Safari/537.36
+mail.user.history.body=Hello {0}!\n\nYour chat history: \n\n{1}\n--- \nRegards,\nLive Chat Messenger Intiwhiz International
+# Tue, 17 Mar 15 10:05:47 +0000 by 182.253.240.210 using Mozilla/5.0 (Windows NT 6.1; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0
+presurvey.question=Question:
+# Thu, 14 Jul 16 08:21:13 +0700 by 182.253.240.214 using Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+menu.notifications=Menu Notifications
+# Thu, 14 Jul 16 08:21:38 +0700 by 182.253.240.214 using Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+menu.notifications=Email Notifications
